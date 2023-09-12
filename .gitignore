@@ -1,7 +1,2 @@
-experiment/__pycache__/__init__.cpython-39.pyc
-experiment/__pycache__/frames.cpython-39.pyc
-video/VID_20221215_190014.mp4
-video/VID_20221215_190036.mp4
-video/VID_20221215_190320.mp4
-__pycache__/main.cpython-311.pyc
+video/*
 .vscode/settings.json
